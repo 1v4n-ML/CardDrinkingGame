@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17cf20887b6edeb48b7d21583679a91c, type: 3}
+  m_Name: Red Deck
+  m_EditorClassIdentifier: 
+  AllCards:
+  - {fileID: 11400000, guid: d1ada6ddaa7e2e347867f897e7f28d9e, type: 2}
+  - {fileID: 11400000, guid: a555812ebf41d124997dc3528b80a2e4, type: 2}
+  - {fileID: 11400000, guid: f59044e9f7a5cdf448161c99963b702e, type: 2}
+  - {fileID: 11400000, guid: 1f272c144ab526e43bc00d3048944691, type: 2}
+  - {fileID: 11400000, guid: fe43033a364b25043bbaf85f58185f22, type: 2}
+  Selected: 1
+  icon: {fileID: 21300000, guid: 1b5edfaa43a45d342b122c301a8184e0, type: 3}
