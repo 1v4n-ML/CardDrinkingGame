@@ -1,10 +1,6 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using Unity.VisualScripting;
-using System;
-using System.Runtime.CompilerServices;
 
 public class PlayerManager : MonoBehaviour
 {

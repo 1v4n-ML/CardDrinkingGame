@@ -77,7 +77,7 @@ public class GameDirector : MonoBehaviour
         cardDescription.gameObject.SetActive(true);
         cardTitle.gameObject.SetActive(true);
         cardTitle.text = currentCard.Title;
-        cardDescription.text = currentCard.Description;
+        cardDescription.text = currentCard.Details;
         nextBtn.interactable = false;
         RotateCard(currentCard);
         nextBtn.interactable = true;
