@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36eddd8f3f2793c4aa74e63644482597, type: 3}
   m_Name: default 3
   m_EditorClassIdentifier: 
-  playerName: 
-  playing: 0
-  orderIndex: 0
+  playerName: "ayrton senna\u200B"
+  playing: 1
